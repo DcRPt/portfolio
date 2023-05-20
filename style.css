@@ -144,6 +144,31 @@ a{
     background: #e4e6ea;
 }
 
+.analise{
+    margin-top: 36px;
+    padding-top: 52px;
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+    font-size: 36px;
+}
+
+.analise-title{
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 16px;
+}
+
+.analise-text{
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 28px;
+    flex-wrap: wrap;
+    color: #1F2937;
+    background: #e4e6ea;
+}
+
 .footer{
     color:#e5e7eb;
     background-color: #1F2937;
